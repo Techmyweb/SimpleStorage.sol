@@ -13,4 +13,6 @@ contract SimpleStorage {
         return number;
     }
 }
+
+
 Added SimpleStorage contract
